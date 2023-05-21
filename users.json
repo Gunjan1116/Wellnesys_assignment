@@ -1,0 +1,11 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"gunjan",
+            "email":"g@gmail.com",
+            "age":25,
+            "city":"Jamshedpur"
+        }
+    ]
+}
