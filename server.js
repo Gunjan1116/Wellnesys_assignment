@@ -17,15 +17,15 @@ app.get("/", (req, res) => {
 app.use("/users", userRoute)
 
 //Middleware for error handling for invalid routes 
-app.get("*", (req, res) => {
-    res.status(404).json({ "message": "Page not found!!" })
-})
+app.use((req, res, next) => {
+    res.status(404).json({ "message": "Page not found!!" });
+  });
 
 //Middleware for error handling for internal server errors
 app.use((err, req, res, next) => {
     res.status(500).json({
-        error: {
-            message: 'Internal Server Error',
+        "error": {
+            "message": 'Internal Server Error',
         },
     });
 });

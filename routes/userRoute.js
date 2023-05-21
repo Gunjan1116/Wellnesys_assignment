@@ -1,6 +1,6 @@
-let express = require("express");
-let fs = require("fs");
-let userRoute = express.Router();
+const express = require("express");
+const fs = require("fs");
+const userRoute = express.Router();
 
 userRoute.post('/', (req, res) => {
     const { name, email, age, gender, city } = req.body;
