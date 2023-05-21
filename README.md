@@ -35,7 +35,7 @@ Middleware: Using middleware allows for reusable code that can be applied to mul
     - Use the tool to send HTTP requests to the server and test the routes.
     - Send a GET request to http://localhost:5000/ to see the welcome message.
     - Send a POST request to http://localhost:5000/users with the required user information in the request body. The request body should follow this structure:
-        {
+        >{
             "name": "abc",
             "email": "abc@gmail.com",
             "age": 25,
