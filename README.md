@@ -1,7 +1,7 @@
 # Wellnesys_assignment
 
 ## Deployed URL
-[api]()
+[api](https://wellnesys-assignment-9p64.onrender.com/)
 
 ## How to Use
 
