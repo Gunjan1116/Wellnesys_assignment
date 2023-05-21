@@ -12,3 +12,206 @@ URL Accessed: /
 Response Status: 200
 Time Taken: 5ms
 ===============================
+Method: GET
+Date: Sun May 21 2023 10:11:59 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 16ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:13:43 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 7ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:14:25 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 6ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:14:43 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 15ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:14:45 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 6ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:17:49 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 17ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:18:01 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 5ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:18:12 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 15ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:18:14 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 5ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:18:23 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 201
+Time Taken: 8ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:18:28 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 14ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:21:49 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 14ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:22:29 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 23ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:27:06 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 9ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:34:46 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 9ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:42:42 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 409
+Time Taken: 9ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:43:05 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 201
+Time Taken: 4ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:43:10 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 7ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:43:33 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 5ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:44:30 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 409
+Time Taken: 13ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:45:04 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 409
+Time Taken: 6ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:45:37 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 201
+Time Taken: 9ms
+===============================
+Method: POST
+Date: Sun May 21 2023 10:45:42 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 409
+Time Taken: 18ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:45:47 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 5ms
+===============================
+Method: GET
+Date: Sun May 21 2023 10:57:42 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /user
+Response Status: 404
+Time Taken: 7ms
+===============================
+Method: GET
+Date: Sun May 21 2023 11:01:54 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 7ms
+===============================
+Method: GET
+Date: Sun May 21 2023 11:03:08 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 7ms
+===============================
+Method: POST
+Date: Sun May 21 2023 11:04:41 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 201
+Time Taken: 5ms
+===============================
+Method: GET
+Date: Sun May 21 2023 11:04:46 GMT+0530 (India Standard Time)
+HTTP Version: 1.1
+URL Accessed: /users
+Response Status: 200
+Time Taken: 8ms
+===============================

@@ -1,11 +1,42 @@
-{
-    "users":[
-        {
-            "id":1,
-            "name":"gunjan",
-            "email":"g@gmail.com",
-            "age":25,
-            "city":"Jamshedpur"
-        }
-    ]
-}
+[
+  {
+    "id": 1,
+    "name": "gunjan",
+    "email": "g@gmail.com",
+    "age": 25,
+    "gender": "male",
+    "city": "Jamshedpur"
+  },
+  {
+    "id": 2,
+    "name": "nikhil",
+    "email": "n@gmail.com",
+    "age": 25,
+    "gender": "male",
+    "city": "Ranchi"
+  },
+  {
+    "id": 3,
+    "name": "ajit",
+    "email": "a@gmail.com",
+    "age": 25,
+    "gender": "male",
+    "city": "Patna"
+  },
+  {
+    "id": 4,
+    "name": "jishnu",
+    "email": "j@gmail.com",
+    "age": 25,
+    "gender": "male",
+    "city": "kerala"
+  },
+  {
+    "id": 5,
+    "name": "manoj",
+    "email": "m@gmail.com",
+    "age": 25,
+    "gender": "male",
+    "city": "gaya"
+  }
+]
