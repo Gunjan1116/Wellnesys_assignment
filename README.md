@@ -18,9 +18,7 @@
 
 ## Lessons Learned:
 
-- Modular structure: Organizing the code into separate files for routes, middleware, and server helps in better code organization and maintainability.
-- Status code: I learned about the HTTP status code 409, which is used to indicate a conflict when a user is already registered. This status code is suitable for situations where a request cannot be completed due to a conflict with the current state of the target resource
-Middleware: Using middleware allows for reusable code that can be applied to multiple routes and provides a way to handle common tasks like logging and error handling.
+- Status code: I learned about the HTTP status code 409, which is used to indicate a conflict when a user is already registered. This status code is suitable for situations where a request cannot be completed due to a conflict with the current state of the target resource.
 - Error handling: Proper error handling is essential to handle invalid routes and server errors gracefully and provide meaningful responses to the clients.
 - File operations: Working with file operations requires attention to error handling and file management, ensuring that data is read and written correctly.
 
@@ -43,4 +41,4 @@ Middleware: Using middleware allows for reusable code that can be applied to mul
             "city": "Delhi"
         }
     - Send a GET request to http://localhost:5000/users to retrieve all users.
-- Check the logs: After making requests, you can check the logger.txt log file (if the path was not changed) to see the logged request information.
+- Check the logs: After making requests, you can check the logger.txt log file to see the logged request information.
