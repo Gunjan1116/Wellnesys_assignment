@@ -1,4 +1,27 @@
 # Wellnesys_assignment
+
+## Deployed URL
+[api]()
+
+## How to Use
+
+- Clone the repository: Clone the repository containing the code to your local system.
+- Install dependencies: Open the terminal and navigate to the project directory. Run the command **npm install** to install all the dependencies mentioned in the package.json file:
+- Start the server: In the terminal, run the command  **npm run server** to start the server:
+- Open an API testing tool like Postman.
+    - Use the tool to send HTTP requests to the server and test the routes.
+    - Send a GET request to http://localhost:5000/ or api to see the welcome message.
+    - Send a POST request to http://localhost:5000/users or api/users with the required user information in the request body. The request body should follow this structure:
+        >{
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "age": 25,
+            "gender": "Male",
+            "city": "Delhi"
+        }
+    - Send a GET request to http://localhost:5000/users or api/users to retrieve all users.
+- Check the logs: After making requests, you can check the logger.txt log file to see the logged request information.
+
 ## Steps Followed:
 
 - Setting up the Node.js project: Created a new Node.js project using npm and initialized it with a package.json file.
@@ -24,21 +47,4 @@
 
 **Overall, the assignment helped in gaining hands-on experience with building a web application using Node.js and Express, understanding the importance of middleware and error handling, and implementing basic routing and file operations. It provided insights into creating a structured and maintainable codebase and testing the application to ensure its proper functionality.**
 
-## How to Use
 
-- Clone the repository: Clone the repository containing the code to your local system.
-- Install dependencies: Open the terminal and navigate to the project directory. Run the command **npm install** to install all the dependencies mentioned in the package.json file:
-- Start the server: In the terminal, run the command  **npm run server** to start the server:
-- Open an API testing tool like Postman.
-    - Use the tool to send HTTP requests to the server and test the routes.
-    - Send a GET request to http://localhost:5000/ to see the welcome message.
-    - Send a POST request to http://localhost:5000/users with the required user information in the request body. The request body should follow this structure:
-        >{
-            "name": "abc",
-            "email": "abc@gmail.com",
-            "age": 25,
-            "gender": "Male",
-            "city": "Delhi"
-        }
-    - Send a GET request to http://localhost:5000/users to retrieve all users.
-- Check the logs: After making requests, you can check the logger.txt log file to see the logged request information.
